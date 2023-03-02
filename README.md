@@ -12,6 +12,7 @@ Welcome to my space, my name is Adrian Grajeda, I'm a sofware developer that enj
 <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-45b8d8?style=flat-square&logo=Gradle&logoColor=black" />
 <img alt="Groovy" src="https://img.shields.io/badge/-Groovy-45b8d8?style=flat-square&logo=ApacheGroovy&logoColor=black" />
 <img alt="Junit" src="https://img.shields.io/badge/-Junit 5-45b8d8?style=flat-square&logo=JUnit5&logoColor=black" />
+<img alt="Mockito" src="https://img.shields.io/badge/-Mockito-45b8d8?style=flat-square&logo=Mockito&logoColor=black" />
 <img alt="Hamcrest" src="https://img.shields.io/badge/-Hamcrest-45b8d8?style=flat-square&logo=Hamcrest&logoColor=black" />
 <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-45b8d8?style=flat-square&logo=ApacheKafka&logoColor=black" />
 <img alt="Maven" src="https://img.shields.io/badge/-Maven-45b8d8?style=flat-square&logo=ApacheMaven&logoColor=black" />
@@ -23,6 +24,8 @@ Welcome to my space, my name is Adrian Grajeda, I'm a sofware developer that enj
 <img alt="Git" src="https://img.shields.io/badge/-Git-45b8d8?style=flat-square&logo=Git&logoColor=black" />
 <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-45b8d8?style=flat-square&logo=GitLab&logoColor=black" />
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-45b8d8?style=flat-square&logo=Postman&logoColor=black" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-45b8d8?style=flat-square&logo=Docker&logoColor=black" />
+<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-45b8d8?style=flat-square&logo=Swagger&logoColor=black" />
 </p>
 <!--
 **AdrianGrajedaB/adriangrajedab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
